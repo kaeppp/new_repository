@@ -16,7 +16,7 @@
             </div>
             <div class="body">
                 <h2>body</h2>
-                <textarea name="post[]body" placeholder="今日も１日お疲れ様でした。"></textarea>
+                <textarea name="post[body]" placeholder="今日も１日お疲れ様でした。"></textarea>
             </div>
             <input type="submit" value="保存" />
         </form>
